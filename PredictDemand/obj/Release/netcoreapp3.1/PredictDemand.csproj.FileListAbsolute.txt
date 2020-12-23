@@ -1,0 +1,16 @@
+C:\Users\mikuh\source\repos\PredictDemand\PredictDemand\bin\Release\netcoreapp3.1\PredictDemand.exe
+C:\Users\mikuh\source\repos\PredictDemand\PredictDemand\bin\Release\netcoreapp3.1\PredictDemand.deps.json
+C:\Users\mikuh\source\repos\PredictDemand\PredictDemand\bin\Release\netcoreapp3.1\PredictDemand.runtimeconfig.json
+C:\Users\mikuh\source\repos\PredictDemand\PredictDemand\bin\Release\netcoreapp3.1\PredictDemand.runtimeconfig.dev.json
+C:\Users\mikuh\source\repos\PredictDemand\PredictDemand\bin\Release\netcoreapp3.1\PredictDemand.dll
+C:\Users\mikuh\source\repos\PredictDemand\PredictDemand\bin\Release\netcoreapp3.1\PredictDemand.pdb
+C:\Users\mikuh\source\repos\PredictDemand\PredictDemand\bin\Release\netcoreapp3.1\PredictDemandLibrary.dll
+C:\Users\mikuh\source\repos\PredictDemand\PredictDemand\bin\Release\netcoreapp3.1\PredictDemandLibrary.pdb
+C:\Users\mikuh\source\repos\PredictDemand\PredictDemand\obj\Release\netcoreapp3.1\PredictDemand.csprojAssemblyReference.cache
+C:\Users\mikuh\source\repos\PredictDemand\PredictDemand\obj\Release\netcoreapp3.1\PredictDemand.csproj.CoreCompileInputs.cache
+C:\Users\mikuh\source\repos\PredictDemand\PredictDemand\obj\Release\netcoreapp3.1\PredictDemand.AssemblyInfoInputs.cache
+C:\Users\mikuh\source\repos\PredictDemand\PredictDemand\obj\Release\netcoreapp3.1\PredictDemand.AssemblyInfo.cs
+C:\Users\mikuh\source\repos\PredictDemand\PredictDemand\obj\Release\netcoreapp3.1\PredictDemand.csproj.CopyComplete
+C:\Users\mikuh\source\repos\PredictDemand\PredictDemand\obj\Release\netcoreapp3.1\PredictDemand.dll
+C:\Users\mikuh\source\repos\PredictDemand\PredictDemand\obj\Release\netcoreapp3.1\PredictDemand.pdb
+C:\Users\mikuh\source\repos\PredictDemand\PredictDemand\obj\Release\netcoreapp3.1\PredictDemand.genruntimeconfig.cache

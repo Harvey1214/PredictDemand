@@ -1,0 +1,9 @@
+C:\Users\mikuh\source\repos\PredictDemand\PredictDemandLibrary\bin\Release\netstandard2.0\PredictDemandLibrary.deps.json
+C:\Users\mikuh\source\repos\PredictDemand\PredictDemandLibrary\bin\Release\netstandard2.0\PredictDemandLibrary.dll
+C:\Users\mikuh\source\repos\PredictDemand\PredictDemandLibrary\bin\Release\netstandard2.0\PredictDemandLibrary.pdb
+C:\Users\mikuh\source\repos\PredictDemand\PredictDemandLibrary\obj\Release\netstandard2.0\PredictDemandLibrary.csprojAssemblyReference.cache
+C:\Users\mikuh\source\repos\PredictDemand\PredictDemandLibrary\obj\Release\netstandard2.0\PredictDemandLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mikuh\source\repos\PredictDemand\PredictDemandLibrary\obj\Release\netstandard2.0\PredictDemandLibrary.AssemblyInfoInputs.cache
+C:\Users\mikuh\source\repos\PredictDemand\PredictDemandLibrary\obj\Release\netstandard2.0\PredictDemandLibrary.AssemblyInfo.cs
+C:\Users\mikuh\source\repos\PredictDemand\PredictDemandLibrary\obj\Release\netstandard2.0\PredictDemandLibrary.dll
+C:\Users\mikuh\source\repos\PredictDemand\PredictDemandLibrary\obj\Release\netstandard2.0\PredictDemandLibrary.pdb
