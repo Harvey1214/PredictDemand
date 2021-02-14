@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29911.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PredictDemand", "PredictDemand\PredictDemand.csproj", "{95688F93-120D-4905-890D-F87728F00A24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PredictDemand", "PredictDemand\PredictDemand.csproj", "{95688F93-120D-4905-890D-F87728F00A24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PredictDemandLibrary", "PredictDemandLibrary\PredictDemandLibrary.csproj", "{F48DB488-BD24-4BA3-A2A1-2016B500CD42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PredictDemandLibrary", "PredictDemandLibrary\PredictDemandLibrary.csproj", "{F48DB488-BD24-4BA3-A2A1-2016B500CD42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PredictDemandTests", "PredictDemandTests\PredictDemandTests.csproj", "{558C9378-01F9-4034-906C-CB46255FB8D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F48DB488-BD24-4BA3-A2A1-2016B500CD42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F48DB488-BD24-4BA3-A2A1-2016B500CD42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F48DB488-BD24-4BA3-A2A1-2016B500CD42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{558C9378-01F9-4034-906C-CB46255FB8D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{558C9378-01F9-4034-906C-CB46255FB8D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{558C9378-01F9-4034-906C-CB46255FB8D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{558C9378-01F9-4034-906C-CB46255FB8D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

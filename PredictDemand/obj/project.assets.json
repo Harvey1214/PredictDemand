@@ -57,6 +57,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
             "C:\\Users\\mikuh\\source\\repos\\PredictDemand\\PredictDemandLibrary\\PredictDemandLibrary.csproj": {
               "projectPath": "C:\\Users\\mikuh\\source\\repos\\PredictDemand\\PredictDemandLibrary\\PredictDemandLibrary.csproj"
@@ -72,6 +73,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -87,7 +89,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

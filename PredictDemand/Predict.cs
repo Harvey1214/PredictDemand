@@ -37,6 +37,11 @@ namespace PredictDemand
                 startDate = testRow[1];
             }
 
+            if (split == false)
+            {
+                dates = new int[fileData.Length];
+            }
+
             for (int i = 0; i < fileData.Length; i++)
             {
                 if (split)
@@ -49,6 +54,7 @@ namespace PredictDemand
                 else
                 {
                     data[i] = float.Parse(fileData[i]);
+                    dates[i] = i;
                 }
             }
         }

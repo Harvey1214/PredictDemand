@@ -14,7 +14,7 @@ namespace PredictDemandLibrary
         #region regression
         public double PredictUsingRegression()
         {
-            CheckDates();
+            //CheckDates();
 
             double result = 0;
 
